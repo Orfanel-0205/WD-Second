@@ -1,0 +1,57 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+body{
+    background-image: url("/assets/img/354602.jpg");
+    
+}
+
+/* Dev */
+.head > p{
+     color: aliceblue;
+    outline: 1px white;
+    justify-content: flex-start ;
+font-style: italic;
+
+
+}
+/* Dep */
+header {
+    display: flex;
+    justify-content: flex-start;
+    padding: 1rem;
+    align-items: center;
+    flex-wrap: wrap;
+
+
+& > nav{
+    display: flex;
+    gap: .5rem;
+& > button{
+    padding: .5rem;
+}
+.button1{
+    background-color: bisque;
+    border-radius: 50px;
+    border: none;
+    padding: 50px 50px;
+    display: flex;
+    justify-content: flex-end;
+    align-items:a;
+
+& > div{
+   display: flex;
+   align-items: center;
+}
+
+}
+
+
+}
+}
+
+.Psalm{
+
+Width:100px; Height:200px;}
