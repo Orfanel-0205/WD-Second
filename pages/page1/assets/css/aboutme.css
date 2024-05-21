@@ -1,0 +1,21 @@
+body {
+    background-color: bisque;
+    font-family: Arial, sans-serif;
+    color: #333;
+    text-align: center;
+    padding: 20px;
+}
+.abt h1 {
+    font-size: 2em;
+    margin-bottom: 10px;
+}
+.abt h2 {
+    font-size: 1.5em;
+    font-style: italic;
+    color: azure;
+    margin-bottom: 20px;
+}
+.abt p {
+    font-size: 1em;
+    color: #555;
+}
