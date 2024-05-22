@@ -1,21 +1,32 @@
 body {
+    background-image: url("../css/f881afd1000fbbc37d9e078b51ab4fb8.jpg");
     background-color: bisque;
     font-family: Arial, sans-serif;
     color: #333;
     text-align: center;
     padding: 20px;
 }
+
 .skills h1 {
+    background-color: aqua;
+    color: black;
+    font-weight: bolder;
     font-size: 2em;
-    margin-bottom: 10px;
+    margin-bottom: 30px;
 }
+
 .skills ul {
+    background-color: aqua;
     list-style-type: disc;
     padding-left: 40px;
     text-align: left;
     display: inline-block;
+    margin: 0;
 }
+
 .skills li {
-    font-size: 1em;
-    color: #555;
+    background-color: aqua;
+    font-size: 1.5em; /* Increase font size */
+    color: black;
+    padding: 5px 0;
 }
