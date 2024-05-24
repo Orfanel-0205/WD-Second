@@ -32,3 +32,16 @@ body {
     color: #fff;
     margin-top: 20px;
 }
+.BG { 
+    margin: auto;
+}
+
+.BG h1 {
+    background-color: aquamarine;
+
+}
+.BG p{
+    background-color: aquamarine;
+    font-size: 1em;
+    color: #555;  
+}
