@@ -1,30 +1,34 @@
 body {
+    background-image: url("./istockphoto-1347616560-612x612.jpg");
     background-color: bisque;
     font-family: Arial, sans-serif;
     color: #333;
     text-align: center;
     padding: 20px;
 }
-.edu h1 {
-    font-size: 2em;
-    margin-bottom: 10px;
-}
-.edu p {
-    font-size: 1em;
-    color: #555;
-}
-body {
-    background-color: bisque;
-    font-family: Arial, sans-serif;
-    color: #333;
-    text-align: center;
+
+.edu {
+    margin: auto; 
+    width: 60%; 
     padding: 20px;
+    background-color: rgba(255, 165, 0, 0.8);
+    border-radius: 20px;
 }
+
 .edu h1 {
+    color: aliceblue;
     font-size: 2em;
-    margin-bottom: 10px;
+    margin-bottom: 20px;
 }
+
 .edu p {
     font-size: 1em;
     color: #555;
+}
+
+
+.edu h2 {
+    font-size: 1.5em;
+    color: #fff;
+    margin-top: 20px;
 }
